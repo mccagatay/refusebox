@@ -1,1 +1,2 @@
-Refuse Box projesi sakarya üniversitesi bilgisayar mühendisliği nesneye dayalı programlama dersi final projesi olarak verildi.projeyi c# ile yazdım
+
+Refuse Box project was given as a final project of Sakarya University computer engineering object oriented programming lesson. I wrote the project in c #.
