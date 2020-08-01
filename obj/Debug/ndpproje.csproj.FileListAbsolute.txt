@@ -10,3 +10,16 @@ C:\Users\Muhammet\source\repos\ndpproje\obj\Debug\ndpproje.pdb
 C:\Users\Muhammet\source\repos\ndpproje\bin\Debug\EPPlus.dll
 C:\Users\Muhammet\source\repos\ndpproje\bin\Debug\EPPlus.xml
 C:\Users\Muhammet\source\repos\ndpproje\obj\Debug\ndpproje.csproj.CopyComplete
+C:\PROJECT\GIT\C#\refusebox\bin\Debug\ndpproje.exe.config
+C:\PROJECT\GIT\C#\refusebox\bin\Debug\ndpproje.exe
+C:\PROJECT\GIT\C#\refusebox\bin\Debug\ndpproje.pdb
+C:\PROJECT\GIT\C#\refusebox\bin\Debug\EPPlus.dll
+C:\PROJECT\GIT\C#\refusebox\bin\Debug\EPPlus.xml
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.csprojAssemblyReference.cache
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.Form1.resources
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.Properties.Resources.resources
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.csproj.GenerateResource.cache
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.csproj.CoreCompileInputs.cache
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.csproj.CopyComplete
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.exe
+C:\PROJECT\GIT\C#\refusebox\obj\Debug\ndpproje.pdb
